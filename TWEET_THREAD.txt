@@ -1,0 +1,12 @@
+THREAD (Daniel can post; X MCP cannot post)
+
+1/ Shipped a $9 USDC (Base) kit for indie hackers: 7 days to a landing + first payment. English. No ads.
+https://dan116is.github.io/shipweek-kit/
+
+2/ Pattern (ideas only): tiny paid digital product, painkiller price, first customer in public, one screenshot-able feature.
+
+3/ Inside: 7-day calendar, landing blocks, pay-on-Base script, first-customer posts.
+
+4/ Pay 9 USDC on Base only to 0xeC128EDD43DF3DC8a87d6A53C7506A3D6037B9c4 — memo shipweek-kit + email.
+
+5/ Not a boilerplate. Not a coding course. Independent original work.
